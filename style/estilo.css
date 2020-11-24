@@ -1,0 +1,41 @@
+fieldset {
+    width: 70%;
+    background: lemonchiffon;
+    margin: 75px;
+    margin-left: 200px;
+
+    padding: 10px;
+}
+
+legend {
+    color: mediumblue;
+    font-size: 1.6em;
+    background:burlywood;
+}
+textarea{
+    width: 60%;
+}
+
+input, label, select, option{
+    font-size: 1.2em;
+    margin: 15px;
+
+    background: cadetblues;
+}
+input[type=radio]{
+    margin:0px;
+    margin-left:50px;
+
+}
+h2{
+    color:darkblue;
+    font-size: 1.6em;
+    text-align: center;
+}
+.titulo{
+    color:brown;
+    font-size: 1.4em;
+    text-align: left;
+    background:cornsilk ;
+    border: darkgreen 1px solid;
+}

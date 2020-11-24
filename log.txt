@@ -1,0 +1,340 @@
+Tue-11-2020  21:51:55
+Opción selecconada 
+Tue-11-2020  21:52:25
+Opción selecconada 
+Tue-11-2020  21:52:27
+Opción selecconada Crear fichero
+Sun-11-2020  11:49:29
+Opción selecconada 
+Sun-11-2020  11:49:31
+Opción selecconada Escribir fichero
+Sun-11-2020  11:49:54
+Opción selecconada 
+Sun-11-2020  11:49:57
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  11:50:02
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  11:50:08
+Opción selecconada Escribir fichero
+Sun-11-2020  11:50:15
+Opción selecconada 
+Sun-11-2020  11:50:16
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  11:50:41
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  11:51:51
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  12:03:57
+Opción selecconada 
+Sun-11-2020  12:04:02
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  17:06:33
+Opción selecconada 
+Sun-11-2020  17:06:34
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  17:08:36
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  17:45:16
+Opción selecconada 
+Sun-11-2020  17:45:18
+Opción selecconada Directorios
+Sun-11-2020  17:52:44
+Opción selecconada 
+Sun-11-2020  17:52:51
+Opción selecconada 
+Sun-11-2020  17:52:53
+Opción selecconada Escribir fichero
+Sun-11-2020  17:53:10
+Opción selecconada 
+Sun-11-2020  17:53:11
+Opción selecconada Escribir y Leer fichero
+Sun-11-2020  17:54:07
+Opción selecconada 
+Sun-11-2020  17:54:08
+Opción selecconada Directorios
+Sun-11-2020  18:20:56
+Opción selecconada 
+Sun-11-2020  18:20:58
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:20:59
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:00
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:01
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:02
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:03
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:03
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:04
+Opción selecconada Ej3:Directorios
+Sun-11-2020  18:28:05
+Opción selecconada Ej3:Directorios
+Sun-11-2020  18:28:05
+Opción selecconada Ej2:Escribir y Leer fichero
+Sun-11-2020  18:28:06
+Opción selecconada Ej1:Escribir fichero
+Sun-11-2020  18:28:07
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:35
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:40
+Opción selecconada 
+Sun-11-2020  18:28:42
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:28:54
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:29:10
+Opción selecconada Leer con fgets
+Sun-11-2020  18:29:14
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:33:40
+Opción selecconada 
+Sun-11-2020  18:33:41
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:41:26
+Opción selecconada 
+Sun-11-2020  18:41:27
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:41:56
+Opción selecconada 
+Sun-11-2020  18:41:58
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  18:49:15
+Opción selecconada 
+Sun-11-2020  18:49:17
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  19:14:54
+Opción selecconada 
+Sun-11-2020  19:14:56
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  19:17:50
+Opción selecconada 
+Sun-11-2020  19:17:52
+Opción selecconada Ej4:Lectura Fichero
+Sun-11-2020  19:19:54
+Opción selecconada 
+Sun-11-2020  19:23:08
+Opción selecconada 
+Sun-11-2020  19:23:12
+Opción selecconada 
+Sun-11-2020  19:24:59
+Opción selecconada 
+Sun-11-2020  19:25:01
+Opción selecconada Ej5: Borrar y crear ficheros
+Sun-11-2020  19:25:06
+Opción selecconada crear 20 ficheros
+Sun-11-2020  19:25:09
+Opción selecconada Ej5: Borrar y crear ficheros
+Sun-11-2020  19:25:37
+Opción selecconada elimina fichero seleccionado
+Sun-11-2020  19:25:39
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:26:22
+Opción selecconada 
+Mon-11-2020  08:26:25
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:27:40
+Opción selecconada borrar ficheros
+Mon-11-2020  08:27:45
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:27:46
+Opción selecconada crear 20 ficheros
+Mon-11-2020  08:27:47
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:27:48
+Opción selecconada elimina fichero seleccionado
+Mon-11-2020  08:27:49
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:28:27
+Opción selecconada borrar ficheros
+Mon-11-2020  08:28:29
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:28:30
+Opción selecconada borrar ficheros
+Mon-11-2020  08:28:31
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:57:51
+Opción selecconada 
+Mon-11-2020  08:57:53
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:57:53
+Opción selecconada 
+Mon-11-2020  08:57:55
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:57:55
+Opción selecconada 
+Mon-11-2020  08:57:55
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:57:55
+Opción selecconada 
+Mon-11-2020  08:57:56
+Opción selecconada Ej4:Lectura Fichero
+Mon-11-2020  08:57:58
+Opción selecconada 
+Mon-11-2020  08:57:59
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  08:57:59
+Opción selecconada 
+Mon-11-2020  09:03:56
+Opción selecconada 
+Mon-11-2020  09:03:58
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:03:58
+Opción selecconada 
+Mon-11-2020  09:03:59
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:03:59
+Opción selecconada 
+Mon-11-2020  09:04:26
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:04:26
+Opción selecconada 
+Mon-11-2020  09:05:01
+Opción selecconada 
+Mon-11-2020  09:05:03
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:05:03
+Opción selecconada 
+Mon-11-2020  09:05:04
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:05:04
+Opción selecconada 
+Mon-11-2020  09:05:05
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:05:05
+Opción selecconada 
+Mon-11-2020  09:05:15
+Opción selecconada 
+Mon-11-2020  09:05:17
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:16:14
+Opción selecconada 
+Mon-11-2020  09:18:35
+Opción selecconada 
+Mon-11-2020  09:18:36
+Opción selecconada Ej6: Renombrar ficheros
+Mon-11-2020  09:27:51
+Opción selecconada copiar
+Mon-11-2020  09:28:49
+Opción selecconada Ej6: Renombrar ficheros
+Mon-11-2020  09:31:58
+Opción selecconada 
+Mon-11-2020  09:32:00
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:32:02
+Opción selecconada 
+Mon-11-2020  09:32:03
+Opción selecconada Ej6: Renombrar ficheros
+Mon-11-2020  09:32:34
+Opción selecconada Ej6: Renombrar ficheros
+Mon-11-2020  09:33:11
+Opción selecconada 
+Mon-11-2020  09:33:13
+Opción selecconada Ej1:Escribir fichero
+Mon-11-2020  09:33:14
+Opción selecconada Ej1:Escribir fichero
+Mon-11-2020  09:33:14
+Opción selecconada Ej2:Escribir y Leer fichero
+Mon-11-2020  09:33:15
+Opción selecconada Ej3:Directorios
+Mon-11-2020  09:33:16
+Opción selecconada Ej4:Lectura Fichero
+Mon-11-2020  09:33:17
+Opción selecconada 
+Mon-11-2020  09:33:18
+Opción selecconada Ej1:Escribir fichero
+Mon-11-2020  09:33:23
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:33:26
+Opción selecconada 
+Mon-11-2020  09:33:27
+Opción selecconada Ej6: Renombrar ficheros
+Mon-11-2020  09:36:33
+Opción selecconada 
+Mon-11-2020  09:36:35
+Opción selecconada Ej6: Renombrar ficheros
+Mon-11-2020  09:41:50
+Opción selecconada 
+Mon-11-2020  09:41:51
+Opción selecconada Ej6: Renombrar ficheros
+Mon-11-2020  09:44:56
+Opción selecconada 
+Mon-11-2020  09:44:59
+Opción selecconada Ej1:Escribir fichero
+Mon-11-2020  09:45:43
+Opción selecconada Ej1:Escribir fichero
+Mon-11-2020  09:45:45
+Opción selecconada Ej1: Escribir fichero
+Mon-11-2020  09:45:47
+Opción selecconada 
+Mon-11-2020  09:45:48
+Opción selecconada Ej2: Escribir y Leer fichero
+Mon-11-2020  09:45:50
+Opción selecconada 
+Mon-11-2020  09:45:51
+Opción selecconada Ej3: Directorios
+Mon-11-2020  09:45:53
+Opción selecconada 
+Mon-11-2020  09:45:54
+Opción selecconada Ej4: Lectura Fichero
+Mon-11-2020  09:45:56
+Opción selecconada Ej4: Lectura Fichero
+Mon-11-2020  09:46:41
+Opción selecconada Ej4: Lectura Fichero
+Mon-11-2020  09:46:42
+Opción selecconada 
+Mon-11-2020  09:46:43
+Opción selecconada Ej1: Escribir fichero
+Mon-11-2020  09:47:12
+Opción selecconada 
+Mon-11-2020  09:47:13
+Opción selecconada Ej1: Escribir fichero
+Mon-11-2020  09:47:14
+Opción selecconada 
+Mon-11-2020  09:47:15
+Opción selecconada Ej2: Escribir y Leer fichero
+Mon-11-2020  09:47:16
+Opción selecconada 
+Mon-11-2020  09:47:17
+Opción selecconada Ej3: Directorios
+Mon-11-2020  09:47:18
+Opción selecconada 
+Mon-11-2020  09:47:19
+Opción selecconada Ej4: Lectura Fichero
+Mon-11-2020  09:47:20
+Opción selecconada 
+Mon-11-2020  09:47:21
+Opción selecconada Ej5: Borrar y crear ficheros
+Mon-11-2020  09:47:22
+Opción selecconada 
+Mon-11-2020  09:47:23
+Opción selecconada Ej6: Renombrar ficheros
+Mon-11-2020  09:49:29
+Opción selecconada 
+Tue-11-2020  09:04:26
+Opción selecconada 
+Tue-11-2020  09:04:33
+Opción selecconada Ej1: Escribir fichero
+Tue-11-2020  09:06:29
+Opción selecconada 
+Tue-11-2020  09:06:30
+Opción selecconada Ej2: Escribir y Leer fichero
+Tue-11-2020  09:06:53
+Opción selecconada 
+Tue-11-2020  09:07:01
+Opción selecconada Ej3: Directorios
+Tue-11-2020  09:07:20
+Opción selecconada 
+Tue-11-2020  09:07:21
+Opción selecconada Ej4: Lectura Fichero
+Tue-11-2020  09:07:30
+Opción selecconada 
+Tue-11-2020  09:07:32
+Opción selecconada Ej5: Borrar y crear ficheros
+Tue-11-2020  09:08:12
+Opción selecconada 
+Tue-11-2020  09:08:13
+Opción selecconada Ej6: Renombrar ficheros

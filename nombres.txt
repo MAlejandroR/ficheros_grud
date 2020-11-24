@@ -1,0 +1,6 @@
+<h6>Luis javier Ruiz</h6>
+Manuel Romero
+Elena Rubio<br />
+Nieves López
+<span style=strong>Lourdes Jimenez</span>
+<span style=color:red>Otro nombre</span>

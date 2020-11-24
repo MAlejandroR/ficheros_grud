@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/fichero_class",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "manuel",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "clases/"
+    ]
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+
+}
